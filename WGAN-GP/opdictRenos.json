@@ -1,0 +1,1 @@
+{"add": 0, "mov": 1, "daa": 2, "inc": 3, "dec": 4, "lea": 5, "data16": 6, "push": 7, "xchg": 8, "and": 9, "sub": 10, "cmp": 11, "fadds": 12, "lods": 13, "je": 14, "iret": 15, "xor": 16, "pop": 17, "ja": 18, "scas": 19, "jle": 20}

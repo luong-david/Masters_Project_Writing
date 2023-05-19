@@ -1,0 +1,1 @@
+{"add": 0, "push": 1, "mov": 2, "pop": 3, "call": 4, "inc": 5, "movb": 6, "xor": 7, "cmp": 8, "or": 9, "lea": 10, "dec": 11, "and": 12, "sub": 13, "je": 14, "sbb": 15, "adc": 16, "xchg": 17, "test": 18, "imul": 19, "jmp": 20}
